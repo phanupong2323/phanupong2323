@@ -1,5 +1,8 @@
 <!-- Banner / Cover -->
- <img src="picture/king.jpg" width="220" style="border-radius: 50%; border: 4px solid #4CAF50;" alt="phanupongsuwan"/>
+<p align="center">
+  <img src="picture/king.jpg" width="220" style="border-radius:50%;border:4px solid #4CAF50;" alt="phanupongsuwan"/>
+</p>
+
 <h1 align="center">Hi, I’m ⟪Phanupong Suwan⟫ <img height="30" src="https://em-content.zobj.net/thumbs/120/apple/354/waving-hand_1f44b.png" /></h1>
 
 <p align="center">
