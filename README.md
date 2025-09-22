@@ -3,13 +3,16 @@
   <img src="picture/king.jpg" width="220" style="border-radius:50%;border:4px solid #4CAF50;" alt="phanupongsuwan"/>
 </p>
 
-<h1 align="center">Hi, I’m ⟪Phanupong Suwan⟫ <img height="30" src="https://em-content.zobj.net/thumbs/120/apple/354/waving-hand_1f44b.png" /></h1>
+<h1 align="center">Hi, I’m <strong>Phanupong Suwan</strong> <img height="30" src="https://em-content.zobj.net/thumbs/120/apple/354/waving-hand_1f44b.png" /></h1>
 
 <p align="center">
   <strong>Software Tester • Python & Robot Framework • Continuous Learner</strong><br/>
   <em>“Passionate about building reliable test automation.”</em>
 </p>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="300" alt="cool effect"/>
+</p>
 
 ---
 
@@ -19,7 +22,6 @@
 - 🌱 Exploring more in **software testing** and **DevOps**  
 - 🎯 2025 Goal: Land an **internship** in software testing / QA  
 - 📫 Contact: phanupongsuwan88@gmail.com | [LinkedIn](https://www.instagram.com/ssstephenking_/)
-
 
 ---
 
@@ -35,34 +37,33 @@
 
 </div>
 
-
 ---
 
 ## 📌 Featured Projects
 | Project | Tech / Tools | Highlights | Links |
 |---------|--------------|------------|-------|
-| **Automated Web Testing Suite** | Python · Robot Framework · Selenium | Automated regression tests for e-commerce platform; reduced manual testing time by 70% | [Repo](⟪url⟫) · [Report](⟪url⟫) |
-| **API Testing Framework** | Python · Robot Framework · Requests · Allure | Created reusable API test framework; integrated Allure reports and CI/CD with GitHub Actions | [Repo](⟪url⟫) |
-| **Performance Testing Dashboard** | JMeter · Grafana · Prometheus | Conducted load tests on microservices, visualized metrics in real time dashboards | [Case Study](⟪url⟫) |
-
+| **Automated Web Testing Suite** | Python · Robot Framework · Selenium | 🛠 Automated regression tests for e-commerce; reduced manual testing time by 70% | [Repo](⟪url⟫) · [Report](⟪url⟫) |
+| **API Testing Framework** | Python · Robot Framework · Requests · Allure | 🔗 Reusable API test framework with Allure reporting; integrated CI/CD | [Repo](⟪url⟫) |
+| **Performance Testing Dashboard** | JMeter · Grafana · Prometheus | 📊 Load tests on microservices; real-time dashboard visualization | [Case Study](⟪url⟫) |
 
 ---
 
 ## 🎓 Education
-- **Bachelor’s Degree:** B.Sc. in Information Technology (Graduated 2025)  
-- **University:** Maejo University  
-- **Location:** San Sai District, Chiang Mai, Thailand
-
+- 🏫 **Maejo University** — B.Sc. in Information Technology (Graduated 2025)  
+- 📍 San Sai District, Chiang Mai, Thailand
 
 ---
 
 ## 🤝 Let’s Connect
 > **“Great products are built by great people working together.”**
 
+<p align="center">
 - 💌 Email: phanupongsuwan88@gmail.com  
-- 📱 Phone: 094-486-1169
+- 📱 Phone: 094-486-1169  
 - [![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white)](https://www.facebook.com/phanupong.suwan.77/) 
+</p>
 
+---
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=⟪USERNAME⟫&style=flat-square" alt="profile views"/>
