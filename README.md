@@ -18,7 +18,7 @@
 - 🛠 Skilled in **Python** & **Robot Framework**  
 - 🌱 Exploring more in **software testing** and **DevOps**  
 - 🎯 2025 Goal: Land an **internship** in software testing / QA  
-- 📫 Contact: phanupongsuwan88@gmail.com | [LinkedIn](url)
+- 📫 Contact: phanupongsuwan88@gmail.com | [LinkedIn](https://www.instagram.com/ssstephenking_/)
 
 
 ---
