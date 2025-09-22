@@ -55,13 +55,16 @@
 ---
 
 ## 🤝 Let’s Connect
-> **“Great products are built by great people working together.”**
+> “Great products are built by great people working together.”
 
-<p align="center">
-- 💌 Email: phanupongsuwan88@gmail.com  
-- 📱 Phone: 094-486-1169  
-- [![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white)](https://www.facebook.com/phanupong.suwan.77/) 
+<p>
+💌 Email: phanupongsuwan88@gmail.com <br/>
+📱 Phone: 094-486-1169 <br/>
+<a href="https://www.facebook.com/phanupong.suwan.77/" target="_blank">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white" alt="Facebook">
+</a>
 </p>
+
 
 ---
 
