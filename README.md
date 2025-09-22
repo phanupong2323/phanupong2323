@@ -39,13 +39,12 @@
 ---
 
 ## 📌 Featured Projects
-| Project | Tech | Highlights | Links |
-|---------|------|-----------|-------|
-| **⟪Project A⟫** | React · Node · PostgreSQL | Real-time dashboard handling 100k req/min | [Repo](⟪url⟫) · [Live](⟪url⟫) |
-| **⟪Project B⟫** | Python · FastAPI | Deployed on AWS Lambda; 99.9% uptime | [Repo](⟪url⟫) |
-| **⟪Project C⟫** | Figma · TypeScript | Design System adopted by 3 teams | [Case Study](⟪url⟫) |
+| Project | Tech / Tools | Highlights | Links |
+|---------|--------------|------------|-------|
+| **Automated Web Testing Suite** | Python · Robot Framework · Selenium | Automated regression tests for e-commerce platform; reduced manual testing time by 70% | [Repo](⟪url⟫) · [Report](⟪url⟫) |
+| **API Testing Framework** | Python · Robot Framework · Requests · Allure | Created reusable API test framework; integrated Allure reports and CI/CD with GitHub Actions | [Repo](⟪url⟫) |
+| **Performance Testing Dashboard** | JMeter · Grafana · Prometheus | Conducted load tests on microservices, visualized metrics in real time dashboards | [Case Study](⟪url⟫) |
 
-_Add 2–4 projects max. Each row should fit on one screen._
 
 ---
 
